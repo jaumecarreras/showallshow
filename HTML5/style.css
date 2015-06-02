@@ -1,0 +1,7 @@
+
+
+h1 {  background-color: #6495ed; color: red;  font-family: Arial;   font-size: large;  }
+ p  { background-color: red; color: gray; font-family: Verdana; font-size: medium; }
+ 
+p span {  background-color: blue; color: green; }
+.destacado { color: maroon; }
